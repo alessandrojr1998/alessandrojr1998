@@ -10,7 +10,7 @@
 
 ## :zap: &nbsp; Stacks and skills &nbsp; :zap:
 💻 Python &nbsp;
-💻 Angular &nbsp;
+💻 AngularJs &nbsp;
 💻 Node.js &nbsp;
 💻 React &nbsp;
 💻 Java &nbsp;
