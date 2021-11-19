@@ -18,12 +18,6 @@
 <!-- <img align="left" alt="Java" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" /> &nbsp; -->
 <!-- <img align="left" alt="React Native" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" /> &nbsp; -->
 
-<!-- Vertical Spacer -->
-<br>
-<a href="https://github.com/lohhans/github-readme-stats">
-  <img onclick="https://github.com/lohhans/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
-</a>
-
 ### 🎧 Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12183960618&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12183960618&redirect=true)
