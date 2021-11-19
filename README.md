@@ -18,4 +18,4 @@
 <!-- <img align="left" alt="Java" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" /> &nbsp; -->
 <!-- <img align="left" alt="React Native" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" /> &nbsp; -->
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12183960618&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12183960618&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12183960618&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12183960618&redirect=true)
