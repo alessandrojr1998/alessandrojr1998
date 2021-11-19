@@ -9,7 +9,7 @@
 💻 I'm currently working as a full stack developer.
 
 ## :zap: &nbsp; Stacks and skills &nbsp; :zap:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]
 💻 AngularJs &nbsp;
 💻 Node.js &nbsp;
 💻 React &nbsp;
